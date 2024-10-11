@@ -1,1 +1,1 @@
-# `{{Bitcoin Block}}`
+# `Bitcoin Block`
